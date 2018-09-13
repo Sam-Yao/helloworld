@@ -1,0 +1,15 @@
+{
+    "name": "samyao/helloworld",
+    "authors": [
+        {
+            "name": "Sam Yao",
+            "email": "sam1031@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SamYao\\HelloWorld\\": "src/"
+        }
+    }
+}
